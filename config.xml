@@ -5,10 +5,10 @@
      id = "com.phonegap.app9" 
      version  = "1.0.0">  
 	 
- <name> app9-2017 Geolocalizacion </name>
+ <name> app10 DSAUPOO </name>
  
  <description>
-	Muestra la ubicación del dispositivo de acuerdo al GPS
+	Introduccion al submodulo de programacion
 	</description>
 	
 	<author href ="https://build.phonepag.com" email="adolfandrade1@gmail.com">
